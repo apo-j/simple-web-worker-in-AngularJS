@@ -1,2 +1,2 @@
-simple-web-worker-in-AngularJS
+Simple Web Worker in AngularJS
 ==============================
